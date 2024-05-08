@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">👋 Hi! You can call me Sanchez</h1>
 
-<!--
-**PUMBA32/PUMBA32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <h3 align="center"> My current languages and tools:
+  <h1 align="center"><img src="https://skillicons.dev/icons?i=c,py,go,git,vscode,github,ps&perline=7" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sanchez_blog)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](www.youtube.com/@sanchez_code)
+- I'm currently learning Go programming language
+- I’m also trying my hand at sports programming
+- I'm learning a little math
+- I'm 15 years old
