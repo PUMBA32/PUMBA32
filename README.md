@@ -2,7 +2,7 @@
 
 <p>
   <h3 align="center"> My current languages and tools:
-  <h1 align="center"><img src="https://skillicons.dev/icons?i=c,py,java,git,vscode,github,ps&perline=7" />
+  <h1 align="center"><img src="https://skillicons.dev/icons?i=c,py,java,git,github,ps&perline=7" />
 </p>
 
 ## About me:
