@@ -11,4 +11,3 @@
 - I'm currently learning Java programming language
 - I’m also trying my hand at sports programming
 - I'm learning a little math
-- I'm 15 years old
