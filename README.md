@@ -2,7 +2,7 @@
 
 <p>
   <h3 align="center"> My current languages and tools:
-  <h1 align="center"><img src="https://skillicons.dev/icons?i=py,java,git,github,ps&perline=7" />
+  <h1 align="center"><img src="https://skillicons.dev/icons?i=c,py,java,git,ps&perline=7" />
 </p>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sanchez_blog)
