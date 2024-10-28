@@ -11,3 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="50" alt="ubuntu logo"  />
   <img width="17" />
 </div>
+<div align="center">
+  <br>
+  <img src="https://www.codewars.com/users/super_fufel/badges/large"/>
+</div>
