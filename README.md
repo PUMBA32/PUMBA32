@@ -2,6 +2,7 @@
 
 I'm a 16 y.o. programmer who interested in web development and AI/ML.
 
-- 🗣️ **Languages**: English, Russian
-- 💾 **Programming Languages**: Python, C, Java.
-- 🛠 **Technologies**: SQLite, keras, matplotlib, numpy, pandas, Linux, Git
+- 💾 **Programming Languages**: python, c, java
+- ⚙ **Tech and Databases**: django, fastAPI, sqlite
+- 👁 **AI/ML**: keras, matplotlib, numpy, pandas
+- 🛠 **CI/CD**: git, gitHub, linux
