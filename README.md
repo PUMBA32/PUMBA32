@@ -1,6 +1,18 @@
-### Hi, Im Softcore!
+## Hi, u can call me Softcore!
 
-- 💾 **Programming Languages**: python, c
-- ⚙ **Tech and Databases**: SQLite, socket
-- 👁 **AI/ML**: keras, matplotlib, numpy
-- 🛠 **CI/CD**: git, gitHub, linux-cli
+<div>
+
+<img src="https://github.com/user-attachments/assets/bf653f70-55de-4310-8a3d-2e29c5c6a65b" width="35%" align="right">
+<h3>Black Out Days - Phantogram</h3>
+<p><i>
+"I'm hearing voices all the time up in my head<br>
+I'm hearing voices and they're hunting my mind<br>
+Black out days...<br>
+I don't recognize you anymore"
+</i></p>
+<br>
+<br>
+<br>
+<h3>My simple tech stack:</h3>
+<img src="https://skillicons.dev/icons?i=python,java,c,sqlite,html,css,git,github" width="50%">
+
