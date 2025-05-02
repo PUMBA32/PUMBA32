@@ -11,7 +11,6 @@ Black out days...<br>
 I don't recognize you anymore"
 </i></p>
 <br>
-<br>
 <h3>My simple tech stack:</h3>
 <img src="https://skillicons.dev/icons?i=python,java,c,sqlite,html,css,git,github" width="50%">
 
