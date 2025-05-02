@@ -2,7 +2,6 @@
 
 <div>
 
-<img src="https://github.com/user-attachments/assets/bf653f70-55de-4310-8a3d-2e29c5c6a65b" width="35%" align="right">
 <h3>Black Out Days - Phantogram</h3>
 <p><i>
 "I'm hearing voices all the time up in my head<br>
