@@ -11,5 +11,5 @@ I don't recognize you anymore"
 </i></p>
 <br>
 <h3>My simple tech stack:</h3>
-<img src="https://skillicons.dev/icons?i=python,c,dart,fastapi,sqlite,html,css,git,github" width="50%">
+<img src="https://skillicons.dev/icons?i=python,c,fastapi,sqlite,html,css,git,github" width="50%">
 
