@@ -13,7 +13,7 @@ I don't recognize you anymore"
 ### My tech stack:
  * Python
  * Keras / matplotlib / numpy
- * fastAPI
+ * flask
  * html/css
  * git
  * SQLite
