@@ -11,7 +11,7 @@ I don't recognize you anymore"
 </i></p>
 
 ### My tech stack:
- * Python / JS
+ * Python
  * Keras / PyTorch / matplotlib / numpy
  * html/css
  * git
