@@ -11,8 +11,4 @@ I don't recognize you anymore"
 </i></p>
 
 ### My tech stack:
- * Python / JS
- * Keras / matplotlib / numpy
- * html/css
- * git
- * SQLite
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,git)](https://skillicons.dev)
