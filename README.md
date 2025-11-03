@@ -11,4 +11,4 @@ I don't recognize you anymore"
 </i></p>
 
 ### My tech stack:
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,html,css,git)](https://skillicons.dev)
