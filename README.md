@@ -1,6 +1,3 @@
-## Hi, u can call me Softcore!
-
-<div>
 
 <h3>Black Out Days - Phantogram</h3>
 <p><i>
