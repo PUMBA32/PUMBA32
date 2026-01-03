@@ -8,4 +8,4 @@ I don't recognize you anymore"
 </i></p>
 
 ### My tech stack:
-[![My Skills](https://skillicons.dev/icons?i=python,flask,sqlite,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,sqlite,html,css,git)](https://skillicons.dev)
